@@ -1,10 +1,10 @@
 # SubCleaner_Console
 Hello there!!<br>
-This is a C# script to "clean" duplicate text sub from subtitles. It is a part from another project from me "SubCleaner"
-For example, at folder "Prototype subs for subcleaner" have 2 subs. 
-First sub type is ".ass" (this is a 3D subtitle) so if we want to convert to 2D we have the second sub type ".str".
-The problem is at ".str" all text is duplicate so we won’t this script to "clean it" duplicates.
-
+This is a C# script to "clean" duplicate text sub from subtitles. It is a part from another project from me "SubCleaner".<br>
+For example, at folder "Prototype subs for subcleaner" have 2 subs.<br>
+First sub type is ".ass" (this is a 3D subtitle) so if we want to convert to 2D we have the second sub type ".str".<br>
+The problem is at ".str" all text is duplicate so we won’t this script to "clean it" duplicates.<br>
+<br>
 <br>
 ~Example text from olld ".str":<br>
 <br>
