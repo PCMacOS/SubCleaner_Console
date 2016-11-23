@@ -1,0 +1,6 @@
+c:\users\psmak\onedrive\έγγραφα\visual studio 2015\Projects\Sub\Sub\bin\Debug\Sub.exe.config
+c:\users\psmak\onedrive\έγγραφα\visual studio 2015\Projects\Sub\Sub\bin\Debug\Sub.exe
+c:\users\psmak\onedrive\έγγραφα\visual studio 2015\Projects\Sub\Sub\bin\Debug\Sub.pdb
+c:\users\psmak\onedrive\έγγραφα\visual studio 2015\Projects\Sub\Sub\obj\Debug\Sub.csprojResolveAssemblyReference.cache
+c:\users\psmak\onedrive\έγγραφα\visual studio 2015\Projects\Sub\Sub\obj\Debug\Sub.exe
+c:\users\psmak\onedrive\έγγραφα\visual studio 2015\Projects\Sub\Sub\obj\Debug\Sub.pdb
